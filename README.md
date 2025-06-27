@@ -1,4 +1,4 @@
-# Hi there, I'm Danish 👋
+# Hi there, I'm ImNotDanish05 👋
 
 Welcome to my GitHub profile!
 I am college student
