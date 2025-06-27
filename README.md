@@ -1,6 +1,7 @@
 # Hi there, I'm Danish 👋
 
 Welcome to my GitHub profile!
+I am college student
 
 ---
 
@@ -15,5 +16,13 @@ Welcome to my GitHub profile!
 ## 🛠️ Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/imnotdanish05/count.svg)
+
+---
+
+## 📺 Social Media
+
+[![Subscribe YouTube](https://img.shields.io/badge/YouTube-ImNotDanish05-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ImNotDanish05)
+
+Aku sering upload project walkthrough, coding progress, dan hal-hal seru dari kehidupan dev-ku~
 
 ---
