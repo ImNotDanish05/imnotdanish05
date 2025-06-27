@@ -7,8 +7,8 @@ I am college student
 <br>
 <h1>📊 My GitHub Stats</h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imnotdanish05&show_icons=true&hide_title=true&include_all_commits=true&hide=prs,issues,contribs&theme=tokyonight&border_radius=12)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotdanish05&layout=compact&theme=tokyonight&border_radius=12&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imnotdanish05&show_icons=true&hide_title=true&include_all_commits=true&hide=prs,issues,contribs&theme=dracula&border_radius=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotdanish05&layout=compact&theme=dracula&border_radius=12&langs_count=6)
 
 ---
 
