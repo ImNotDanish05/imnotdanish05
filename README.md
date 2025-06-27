@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there, I'm ImNotDanish05 👋
 
 Welcome to my GitHub profile!
@@ -27,3 +28,4 @@ I am college student
 [![Subscribe YouTube](https://img.shields.io/badge/YouTube-ImNotDanish05-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ImNotDanish05)
 
 ---
+</div>
