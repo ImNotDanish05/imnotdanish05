@@ -12,6 +12,9 @@ I am college student
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotdanish05&layout=compact&theme=tokyonight&border_radius=12&langs_count=6)
 
+<a href="https://github.com/ImNotDanish05/imnotdanish05"><img alt="ImNotDanish05's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@ImNotDanish05/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
+
 ---
 
 
