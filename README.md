@@ -4,6 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotdanish05&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imnotdanish05&theme=radical)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=imnotdanish05&color=blueviolet&style=flat-square)
