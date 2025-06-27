@@ -10,10 +10,7 @@ Welcome to my GitHub profile!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotdanish05&layout=compact&theme=tokyonight&border_radius=12&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imnotdanish05&theme=tokyonight&hide_border=true&border_radius=12)
-
-![Profile Views](https://komarev.com/ghpvc/?username=imnotdanish05&label=Visitors&color=7F3FBF&style=flat-square)
-
+![Profile Views](https://komarev.com/ghpvc/?username=imnotdanish05)
 ---
 
 ## 🛠️ Tech Stack
